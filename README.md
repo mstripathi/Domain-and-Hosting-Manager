@@ -1,37 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Domain & Hosting Portfolio Manager</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
-        h1 {
-            color: #333;
-        }
-        h2 {
-            color: #555;
-        }
-        li {
-            margin: 5px 0;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        .installation-steps {
-            background-color: #f9f9f9;
-            border: 1px solid #ddd;
-            padding: 10px;
-            margin: 10px 0;
-        }
-    </style>
-</head>
-<body>
+
 
     <h1>Domain & Hosting Portfolio Manager</h1>
 
@@ -59,7 +26,7 @@
     <img src="https://github.com/mstripathi/Domain-and-Hosting-Manager/blob/main/SCREEN-2.png" alt="Domain & Hosting Manager">
 
     <h2>Installation Steps:</h2>
-    <div class="installation-steps">
+
         <h3>To install the script, follow these steps:</h3>
         <ol>
             <li><strong>Download the Script:</strong> Clone or download the repository from GitHub.</li>
@@ -82,7 +49,4 @@
             </li>
             <li><strong>Access the Application:</strong> Open your web browser and navigate to the location where you uploaded the script. Log in using the default credentials.</li>
         </ol>
-    </div>
-
-</body>
-</html>
+   
