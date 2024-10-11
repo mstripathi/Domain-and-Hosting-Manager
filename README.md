@@ -1,11 +1,11 @@
 # Domain-and-Hosting-Manager
 Domain &amp; Hosting Portfolio Manager
 
-You can use this small script to keep a record of your domain and Hosting Renewals.
+<b>You can use this small script to keep a record of your domain and Hosting Renewals.</b>
 
-Username : admin
+<li>Username : admin</li>
 
-Password : admin123
+<li>Password : admin123</li>
 
 
 Hash Used for Password : password_hash()
