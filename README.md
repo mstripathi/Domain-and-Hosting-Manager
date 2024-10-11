@@ -15,7 +15,7 @@
 
 ## Screenshots:
 ### 1. Dashboard View
-![Dashboard View](https://github.com/mstripathi/Domain-and-Hosting-Manager/blob/main/SCREEN-1.png)
+![Dashboard View](https://github.com/mstripathi/Domain-and-Hosting-Manager/blob/main/SCREEN-3.png)
 
 ### 2. Domain & Hosting Manager
 ![Domain & Hosting Manager](https://github.com/mstripathi/Domain-and-Hosting-Manager/blob/main/SCREEN-2.png)
