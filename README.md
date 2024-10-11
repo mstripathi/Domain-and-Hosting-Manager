@@ -4,4 +4,4 @@ Domain &amp; Hosting Portfolio Manager
 Username : admin
 Password : admin123
 
-Hast Used for Password : password_hash()
+Hash Used for Password : password_hash()
