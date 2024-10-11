@@ -9,3 +9,9 @@ Domain &amp; Hosting Portfolio Manager
 
 <br>
 Hash Used for Password : password_hash()
+
+Screenshots :
+<br>
+<img src="https://github.com/mstripathi/Domain-and-Hosting-Manager/blob/main/SCREEN-1.png">
+<br>
+<img src="https://github.com/mstripathi/Domain-and-Hosting-Manager/blob/main/SCREEN-2.png">
