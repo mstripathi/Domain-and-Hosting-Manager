@@ -29,7 +29,7 @@ To install the script, follow these steps:
     - Create a new database (e.g., `domain_manager`).
     - Run the SQL script provided in the repository to create necessary tables.
 3. **Configure Database Connection:**
-    - Edit the `config.php` file (or similar) to include your database credentials.
+    - Edit the `connection.php` file  to include your database credentials.
 4. **Upload the Script to Your Server:**
     - Use FTP or file manager to upload the script files to your server.
 5. **Access the Application:** Open your web browser and navigate to the location where you uploaded the script. Log in using the default credentials.
